@@ -21,7 +21,7 @@ This theme "doesn't" follows latest GNOME Adwaita style but rather only kinda do
 
 Basically i just made a slight \(and crappy\) modification to his original theme to make it fit in slightly better with my desktop theme.
 I mean the paddings look kinda goofy but no way am I smart enough to do this properly xd
-Basically this just adds the custom titlebar buttons
+Basically this just adds the custom titlebar buttons (specifically in the userchrome.css and the csd.css files)
 
 
 ## Installation
