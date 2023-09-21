@@ -46,7 +46,7 @@ prob no one is going to read this :sob:
 
 7. Wonder why the fuck firefox doenst have the custom colors as in my screenshot
 
-8. Install Gradience from you app-store-app on your distro
+8. Install Gradience from your app-store-app on your distro
 
 9. Open Gradience
 
